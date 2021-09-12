@@ -1,6 +1,6 @@
 #Ice Breaker Project : Scanmart
 
-![scanmart](final2.png)
+![scanmart](C:\Users\Vidip\OneDrive\Documents\ice breaker\final2.png)
 
 Scanmart is a website that helps you order items by clicking its respective picture.
 
