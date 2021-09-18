@@ -157,10 +157,10 @@ driver.get("https://gourmetgarden.in/account/login")
 search1 = driver.find_element_by_class_name('modal__store-pick-link').click()
 
 search2 = driver.find_element_by_id('CustomerEmail')
-search2.send_keys('deekkshitha02@gmail.com')
+search2.send_keys('emailaddress@gmail.com')
 
 search3 = driver.find_element_by_id('CustomerPassword')
-search3.send_keys('2002@Dee')
+search3.send_keys('password')
 
 search4 = driver.find_element_by_class_name('user-account__login-btn-wrapper').click()
 
