@@ -1,9 +1,5 @@
-#Ice Breaker Project : Scanmart
-
-![scanmart](C:\Users\Vidip\OneDrive\Documents\ice breaker\final2.png)
 
 Scanmart is a website that helps you order items by clicking its respective picture.
-
 
 This site was created to help people who are not very techsavy to order items easily.
 The elderly may find it difficult to find and buy things online using websites and apps.
